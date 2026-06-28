@@ -1,8 +1,7 @@
 fastapi==0.115.6
-uvicorn==0.32.1
-sqlalchemy==2.0.36
+uvicorn[standard]==0.32.1
+SQLAlchemy==2.0.36
 pydantic==2.10.6
-pydantic-core==2.27.2
 email-validator==2.2.0
 python-dotenv==1.0.1
 httpx==0.28.1
